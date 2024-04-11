@@ -1,32 +1,61 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0" xml:base="https://aawsat.com/feed/newsletter/0">
-  <channel>
-    <title>feeds website</title>
-    <link>https://aawsat.com/</link>
-  <description> خميس، 11 أبريل 2024 م - 02 شوّال 1445 هـ</description>
-    <atom:link href="https://aawsat.com/feed/newsletter/v3/0" rel="self" type="application/rss+xml"/>
-    <language>ar</language>
-    <pubDate>Tue, 09 Apr 2024 23:27:00 +0100</pubDate>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
 
-    <item>
-  <title>لا رد إيرانيا على الأميركيين في العراق... وعين «داعش» على ملاعب أوروبا</title>
-  <link>https://aawsat.com/4958071</link>
-  <description>&lt;p&gt;&lt;strong&gt;فطر مبارك&lt;/strong&gt; عليكم قراءنا الأعزاء، و&lt;strong&gt;كل عام وأنتم بخير.&lt;/strong&gt; هذه هي آخر نشراتنا الإخبارية هذا الأسبوع على أن نستأنف نشاطنا يوم الأحد المقبل بإذن الله.&lt;/p&gt;
+<channel>
+	<title>Site Title</title>
+	<atom:link href="https://wptest.mywebmaster.co.uk/feed/" rel="self" type="application/rss+xml" />
+	<link>https://wptest.mywebmaster.co.uk</link>
+	<description></description>
+	<lastBuildDate>Thu, 11 Apr 2024 15:20:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<item>
+		<title>sdsada</title>
+		<link>https://wptest.mywebmaster.co.uk/sdsada/</link>
+					<comments>https://wptest.mywebmaster.co.uk/sdsada/#respond</comments>
+		
+		<dc:creator><![CDATA[mywebmasteruk]]></dc:creator>
+		<pubDate>Thu, 11 Apr 2024 15:20:21 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://wptest.mywebmaster.co.uk/?p=6</guid>
 
-&lt;p&gt;علمت &lt;strong&gt;«الشرق الأوسط»&lt;/strong&gt; أن &lt;strong&gt;الفصائل الموالية لإيران&lt;/strong&gt; في العراق لن تفتح مجدداً &lt;strong&gt;ساحة المواجهة مع الأميركيين،&lt;/strong&gt; وبالتالي فإنها&lt;strong&gt; لن تنخرط في رد طهران&lt;/strong&gt; على قصف قنصليتها بدمشق، داخل الأراضي العراقية.&lt;/p&gt;
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://wptest.mywebmaster.co.uk/sdsada/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>https://wptest.mywebmaster.co.uk/hello-world/</link>
+					<comments>https://wptest.mywebmaster.co.uk/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[mywebmasteruk]]></dc:creator>
+		<pubDate>Thu, 11 Apr 2024 15:18:52 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://wptest.mywebmaster.co.uk/?p=1</guid>
 
-&lt;p&gt;&lt;strong&gt;عربيا&lt;/strong&gt;، في &lt;strong&gt;لبنان&lt;/strong&gt; فتحت &lt;strong&gt;جريمة جبيل،&lt;/strong&gt; التي ذهب ضحيتها القيادي في &lt;strong&gt;«القوات اللبنانية»&lt;/strong&gt; باسكال سليمان، ملف &lt;strong&gt;تفلت الحدود مع سوريا وسلاح «حزب الله» &lt;/strong&gt;على مصراعيه. أما في &lt;strong&gt;السودان&lt;/strong&gt; فقد دخلت&lt;strong&gt; ولاية القضارف&lt;/strong&gt; (شرق البلاد) &lt;strong&gt;غمار الحرب،&lt;/strong&gt; بعد أن شهدت للمرة الأولى &lt;strong&gt;قصفاً بمسيرات تابعة لـ«الدعم السريع»&lt;/strong&gt;، استهدف مقرات تابعة للجيش.&lt;/p&gt;
-
-&lt;p&gt;أما &lt;strong&gt;أوروبيا&lt;/strong&gt; فقد رفعت وزارات الداخلية في&lt;strong&gt; بريطانيا وإسبانيا وفرنسا&lt;/strong&gt; حالة &lt;strong&gt;التأهب الأمني&lt;/strong&gt; بعد منشورات &lt;strong&gt;تهديدية مرتبطة بتنظيم «داعش»&lt;/strong&gt; استهدفت &lt;strong&gt;«دوري الأبطال».&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;أهلا بكم في نشرتنا الإخبارية.&lt;/strong&gt;&lt;/p&gt;
-</description>
-  <pubDate>2024-04-09T23:27:00+0100</pubDate>
-                            <dc:creator>لا رد إيرانيا على الأميركيين في العراق... وعين «داعش» على ملاعب أوروبا</dc:creator>
-                            <guid isPermaLink="false">لا رد إيرانيا على الأميركيين في العراق... وعين «داعش» على ملاعب أوروبا</guid>
-                            </item>
-
-  </channel>
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://wptest.mywebmaster.co.uk/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>
