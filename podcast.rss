@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0" xml:base="https://aawsat.com/feed/newsletter/0">
+  <channel>
+    <title>Mailchimptemplate</title>
+    <link>https://aawsat.com/</link>
+    <language>ar</language>
+	<description> الخميس، 11 أبريل 2024 م - 02 شوّال 1445 هـ</description>
+  <atom:link href="https://aawsat.com/feed/newsletter/v3/0" rel="self" type="application/rss+xml"/>
+ 	<item>
+<title>العراق خارج رقعة الرد الإيراني على ضربة دمشق</title>
+<link>https://aawsat.com/podcast/4958221-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%B1%D9%82%D8%B9%D8%A9-%D8%A7%D9%84%D8%B1%D8%AF-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D8%B9%D9%84%D9%89-%D8%B6%D8%B1%D8%A8%D8%A9-%D8%AF%D9%85%D8%B4%D9%82</link>
+<description>
+واشنطن تضغط للتوصل لهدنة خلال العيد في غزة... وتايوان تتحضّر لسيناريو التصدي لهجوم صيني
+</description>
+<enclosure url="/s3/files/styles/238x208/public/2022-11/Untitled-3_0_4.png" type="image/jpeg" length="0"/>
+<hijridate>01, شوّال 1445 هـ</hijridate>
+<pubDate>الأربعاء 10/04 - 03:00</pubDate>
+<dc:creator>Aawsat</dc:creator>
+<guid isPermaLink="false">4958221</guid>
+</item>
+
+
+
+
+ 
+
+  </channel>
+</rss>
